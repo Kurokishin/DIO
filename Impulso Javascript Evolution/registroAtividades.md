@@ -1,11 +1,30 @@
 # Registro de atividades
 ## Dia 17/07/2022
 ### Módulo I - Princípios de Desenvolvimento de Software
+#### Desafio de projeto
 - ~Adicionar o primeiro repositório para o git/github;~
 
-### Módulo II - Primeiros passos para desenvolvimento web
-- ~Ver os seguintes tópicos:
+### Módulo II - Fundamentos Web com HTML e CSS
+#### Primeiros passos para desenvolvimento web
+- Ver os seguintes tópicos:
 	+ ~O que é internet;~
 	+ ~Como funciona a internet;~
 	+ ~TCP/IP, portas, roteadores, switches e modems;~
 	+ ~Celular, internet e outros dispositivos;~
+
+## Dia 18/07/2022
+### Módulo II
+#### Primeiros passos para desenvolvimento web
+- Tópicos:
+	+ ~Browser, sites, aplicativos e webserver;~
+	+ ~O que são Stacks;~
+	+ ~LPs e termos;~
+	+ ~Construindo a primeira aplicação;~
+
+#### Introdução a criação de websites com HTML5 e CSS3
+- Tópicos:
+	+ ~Introdução ao curso de HTML;~
+	+ ~Entendendo o que é semântica;~
+	+ ~Como usar textos e links em HTML;~
+	+ ~Como inserir imagens em seu site;~
+	+ ~Como organizar listas com HTML;~

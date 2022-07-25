@@ -13,10 +13,10 @@
 	+ ~Celular, internet e outros dispositivos.~
 
 ## Dia 18/07/2022
-	+ ~Browser, sites, aplicativos e webserver;~
-	+ ~O que são Stacks;~
-	+ ~LPs e termos;~
-	+ ~Construindo a primeira aplicação.~
+- ~Browser, sites, aplicativos e webserver;~
+- ~O que são Stacks;~
+- ~LPs e termos;~
+- ~Construindo a primeira aplicação.~
 
 #### Introdução a criação de websites com HTML5 e CSS3
 - Tópicos:
@@ -27,11 +27,11 @@
 	+ ~Como organizar listas com HTML.~
 
 ## Dia 19/07/2022
-	+ ~Introdução e conceitos básicos do CSS3;~
-	+ ~Estilizando elementos, textos e listas;~
-	+ ~Dimensão e alinhamento.~
+- ~Introdução e conceitos básicos do CSS3;~
+- ~Estilizando elementos, textos e listas;~
+- ~Dimensão e alinhamento.~
 
 #### Posicionando elementos com Flexbox em CSS
 ## Dia 25/07/2022
-	+ ~Introdução ao curso;~
-	+ Fundamentos do Flexbox - Parte 1;
+- ~Introdução ao curso;~
+- Fundamentos do Flexbox - Parte 1;

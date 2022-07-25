@@ -30,3 +30,8 @@
 	+ ~Introdução e conceitos básicos do CSS3;~
 	+ ~Estilizando elementos, textos e listas;~
 	+ ~Dimensão e alinhamento.~
+
+#### Posicionando elementos com Flexbox em CSS
+## Dia 25/07/2022
+	+ ~Introdução ao curso;~
+	+ Fundamentos do Flexbox - Parte 1;

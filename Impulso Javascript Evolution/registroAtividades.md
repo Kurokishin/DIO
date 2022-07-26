@@ -35,3 +35,6 @@
 ## Dia 25/07/2022
 	+ ~Introdução ao curso;~
 	+ Fundamentos do Flexbox - Parte 1;
+
+## Dia 26/07/2022
+	+ _(Continuação)_ Fundamentos do Flexbox - Parte 1;
